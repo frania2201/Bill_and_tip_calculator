@@ -1,4 +1,4 @@
-click here (http://newsection.github.io/Workshop/)
+click here --> https://frania2201.github.io/Bill_and_tip_calculator/
 
 
 ## Bill and tip calculator
