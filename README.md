@@ -6,7 +6,6 @@ click here --> https://frania2201.github.io/Bill_and_tip_calculator/
 This application enables to divide the bill (with a tip) equally for all.
 
 
-## Screenshots
 ![Example screenshot](./screenshot.png)
 
 ## Technologies
