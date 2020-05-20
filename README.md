@@ -1,4 +1,4 @@
-click here [CLICK HERE](http://newsection.github.io/Workshop/)
+click here (http://newsection.github.io/Workshop/)
 
 
 ## Bill and tip calculator
